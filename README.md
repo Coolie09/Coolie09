@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coolie09" alt="coolie09" /></a> </p>
 
-- 🔭 I’m currently working on **CodeSynergy**
+- 🔭 I’m currently working on **Finding Name :)**
 
 - 🌱 I’m currently learning **Rust, Python**
 
