@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Coolie09!
 - 👀 I’m interested in coding, reading and riding my bike!
 - 🌱 I’m currently writing scripts for a contest
-- 💞️ I’m looking to collaborate with @GSRHackZ!
+- 💞️ I’m looking to collaborate with @GSRHackZ & @Brukey!
 - 📫 How to reach me: **private**
 
 <!---
